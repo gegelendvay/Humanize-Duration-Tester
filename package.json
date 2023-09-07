@@ -1,0 +1,19 @@
+{
+  "name": "humanize-duration-tester",
+  "version": "1.0.0",
+  "description": "Tester script for the humanize-duration npm package.",
+  "main": "humanize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "humanize-duration",
+    "javascript",
+    "npm"
+  ],
+  "author": "gegelendvay",
+  "license": "MIT",
+  "dependencies": {
+    "humanize-duration": "^3.29.0"
+  }
+}
